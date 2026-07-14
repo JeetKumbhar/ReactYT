@@ -17,3 +17,9 @@ body {
   margin: 20px;
   padding: 20px;
 }
+
+.nav {
+  background-color: lightblue;
+  padding: 20px;
+  margin: 5px;
+}
