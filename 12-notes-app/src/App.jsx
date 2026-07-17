@@ -47,7 +47,7 @@ const App = () => {
             setDetails(e.target.value)
           }}
           />
-          <button className='bg-white text-black active:bg-gray-500 active:scale-95 w-full px-5 py-2 rounded outline-none font-medium'>Add Note</button>
+          <button className='bg-white text-black  active:scale-95 w-full px-5 py-2 rounded outline-none font-medium'>Add Note</button>
       </form>
       <div className='lg:w-1/2 p-10 lg:border-l-2'>
         <h1 className='text-3xl font-bold'>Recent Notes</h1>
